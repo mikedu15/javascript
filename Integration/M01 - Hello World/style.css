@@ -1,0 +1,28 @@
+html{
+ scroll-behavior:smooth;
+}
+
+body {
+ font-family: Arial,helvetica,sans-serif;
+}
+
+
+.color .red {
+  color:red;
+}
+
+.color .blue {
+  color :green;
+}
+
+.bg .red {
+  background-color:red;
+}
+
+.bg .blue {
+  background-color :green;
+}
+
+h3 span {
+    color:grey;
+}
